@@ -92,7 +92,7 @@ There are some commands that you'll need to reuse over and over again. Some of t
 5. `docker ps` (list the running containers)
 
 
-### Clean up after yourself
+## Clean up after yourself
 
 You'll also need to make sure you are cleaning up after yourself when playing around with images and containers. If you don't you may see some unwanted side effects and your code being stale. It's a good habit to run these commands if you forcefully quit your docker containers.  
 
